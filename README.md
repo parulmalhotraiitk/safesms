@@ -33,7 +33,7 @@ Unlike traditional cloud-based SMS scanners, SafeSMS uses local AI inference. Th
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/SafeSMS.git
+   git clone https://github.com/parulmalhotraiitk/safesms.git
    ```
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
