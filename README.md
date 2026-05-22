@@ -29,7 +29,16 @@ Unlike traditional cloud-based SMS scanners, SafeSMS uses local AI inference. Th
 * Android Studio (latest version)
 * An Android device or emulator running Android 8.0 (API level 26) or higher.
 
-### Installation
+### Quick Test (Try it out!) 📱
+
+If you just want to test the app without building from source, a ready-to-use APK is available in this repository.
+
+1. Navigate to the `release/` folder in this repository.
+2. Download `SafeSMS.apk` to your Android device.
+3. Open the file to install the app (you may need to allow "Install unknown apps" from your browser/file manager).
+4. Launch SafeSMS, grant the necessary permissions, and test the real-time background protection!
+
+### Building from Source
 
 1. Clone this repository:
    ```bash
